@@ -1,3 +1,4 @@
 keys/*.key
 .pyc
 .vscode/
+.directory
